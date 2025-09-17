@@ -1,0 +1,47 @@
+name: Update Playlist File
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Code ko checkout karen
+        uses: actions/checkout@v4
+
+      - name: Python ko set karen
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Zaruri packages ko install karen
+        run: pip install requests
+
+      - name: Python script ko run karen
+        run: |
+          curl -L -o hubsports.py ${{ secrets.HUB_SCRIPT }}
+          python hubsports.py
+
+      - name: Changes ko commit karen
+        # Nayi JSON file ko repository mein commit karta hai
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/HubSportsPlaylist.git
+
+      - name: Commit and push changes
+        run: |
+          git add hubsports.m3u
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch latest data"
+            git push origin main
+          fi
