@@ -2,100 +2,100 @@
 #EXTINF:-1 tvg-id="HubSports1HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@g0tbncfopgujuumwahfynhd0ecr4mitigeh0sxba/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@5nvidfusvcnua0ayaqwkckrgkyplf0ib53rzz1aa/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports2HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@e2rarfuwhcewafchazw2bdbclaapeimbecozrvaa/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@ecz02nheeltxnjv5z5c33svz1gqiwgp1e2gd23da/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@zvgwq1os0yco11mt1zzhsnmbx3ovrf2wzbapdnba/bpk-tv/HubSports3HDNEW/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@hyuwc4xft0kyp32z5al1jjnf25bgvvq5hiqhyada/bpk-tv/HubSports3HDNEW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports4HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@rrjgqjubgzagbpiutzqw0tmatimmsbmcr5y1t2ba/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@a15zvf5f5hxw2rdmi1gvp5tllgy4ponzatt50taa/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports5HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/205_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@rjt4y4rkn0d1h0pz5nlwkg3r3tm0uhwprjfhyoba/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@bwyjxhr3ch34epbia0hwvrtopsqfo03jbwoqxxba/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports6HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/206_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
-https://bks06.starhubgo.com:443/bpk-token/2aa@p1sv1vxilwoxoijik2olpflxlx1wm3o3plw3udaa/bpk-tv/HubSports6/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@l5cq1h0rlao5yhyvm2xdhfaxp20xa24rlrtnysda/bpk-tv/HubSports6/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports7HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/207_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@bbhuxpxm2q44nu5sk0dx1oip54iyb331b5tpi0da/bpk-tv/HubSports7/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@02kyfxtwlbx2onlqitpbavqlo5gxcoz30cwtipda/bpk-tv/HubSports7/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports8HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/208_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@dliqivklbbcv0l2vyv4tpqarkvyccekvdztwhdba/bpk-tv/HubSports8/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@c14yej0h1dtejd20ytqrp3rjs2zwhgjsc1x0lyca/bpk-tv/HubSports8/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier1HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@pjqwotsdb00nkah01w3llan3gnlcuv1upxenrgca/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@caj4evbleztuwjor1toqzs2jkdaishjnc43f1aba/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier2HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@gpwq0dfvzckpefkzy2fyhmbvh0ztfu4ig3nwvvca/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@apo3xyf1zv5cx4lbkkiuh20prlytl5foa5kvyoca/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier2UHD" tvg-logo="https://raw.githubusercontent.com/rahul979854/winner/refs/heads/main/hubpremr24k.png" group-title="HUB SPORTS",HUBPREMIER 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@l0a1lviodmpvcr0cnu4cnbwxkrsgy4kflocalfaa/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@jued3zzvsmuhhbref5igrjg0tlcfzipojkebubba/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier3HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://bks06.starhubgo.com:443/bpk-token/2aa@euusuoivsks0btlzzlt2rjfj3ibfvevdeeq01yda/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@rblmor4dmrzf0pxssw2x0wy2cfmyctlurrpebhba/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier4HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@ajxujcfd3sgjue5ykffulojteki0fnsia1msguca/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@bzc1j0wdlmhj1eygjfzxlfwtu3iwyoswb3grsvca/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier5HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@okjt1denfnopabdhj2vinsgxhqtk024aocfvuvda/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@5ootyob2znc1vlgp3ndke2gr3sxt1ewl54k1xyca/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier6HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@pbcynh0ciax3yvavmxxl1eq1o2kqao1rplzqcrba/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@isvywuymwc1sssusyk4e3lrnjbsmfwffi2efvbba/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier7HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@hazczkmlelelrf0ybnr0zsfsvqbiwiwchca505ba/bpk-tv/HubPremier7/output/manifest.mpd?bkm-query
+https://bks03.starhubgo.com:443/bpk-token/2aa@wwpd0ub54nitgcbpvmoyu5gujdv31qgnwwdlvcca/bpk-tv/HubPremier7/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier8HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@4vbommvrgyrrf1ouxhcisd2yysonqddl450gd0ca/bpk-tv/HubPremier8/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@giyc3lvgblupf3cvf5byjqf0x0bcwi5kg20z31ba/bpk-tv/HubPremier8/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier9HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@es5dxlhn4p2o3nhlb0b335hoxoq25y30eswby0da/bpk-tv/HubPremier9/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@4u30vrf0wlxgwcjxj1miq1vlddhnxonm4a1dghca/bpk-tv/HubPremier9/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier10HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@egeqj4w4qagzlflxif13viat2vrbbmsxeca0srca/bpk-tv/HubPremier10/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@2lv0tx0kvkp400vqjy5nokvhpf5kv42v2dz22bba/bpk-tv/HubPremier10/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier11HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@qopuswr43rk0wmfs0ipue4ifndu1dvunqqpw1oba/bpk-tv/HubPremier11/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@f31b2mfsphqtvtthupc4dxdyzcj5oahlf5c25zaa/bpk-tv/HubPremier11/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports1HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB SPORTS",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@n54z5qty1h5dovtkmomph3t5bp1xp4h2nrpe2fca/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@obpa4joa2byhjvk3u4qj14a2tulydqpsop4332da/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports2HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB SPORTS",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@5bqw5g0aa041yaf4loxl0an5nupau3xr5vsn5wca/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@u3ny40ktxb1llrz3yoz3c1q3vfmpdwxwuxwqrmba/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports3HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB SPORTS",BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@plcp3fbjj2vxekkhh5gkpe40lk1sylpjp5ewotca/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@qgyz3el5ahxtmgxhipgvuqt1jgvboohzqmdrssaa/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports4HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB SPORTS",BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
-https://bks05.starhubgo.com:443/bpk-token/2aa@eara3rifecuhssk4a522zcb0dbbieipeeqvrhpaa/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@urlqyjdoobchnhyz23a30xartwn2ceo0up5lh2da/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports5HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB SPORTS",BEIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@vuc4vvevkyxws4owp144qf2lljevqpnfvk3hvfaa/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@z3oj5lbq1f3pfwdla4bgc3s4xcoxl05kznkbq3ca/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
