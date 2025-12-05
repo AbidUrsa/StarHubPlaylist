@@ -6,448 +6,448 @@
 #EXTINF:-1 tvg-id="HubSports1HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@wmbtl2p0fmor55qc4ecyacgxy5fly2c5ws3ygeda/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@jv3pxpvew534fte310lht15o5kkn513ljfz4nrba/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports2HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@mhrnrslmewfko5ikrjfmxc1cfh1jmlu2mzrpykda/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@vh1mzwpqmtf1omaj0nh4wwzsnp3zglw3vz1oqoda/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@ncmqvlrfqbwof5rv51jp3yalxksadm3kn2tjv1ba/bpk-tv/HubSports3HDNEW/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@lhw3bkuzywhirgl4sbzdxm1dua0rnpqclhaeb0aa/bpk-tv/HubSports3HDNEW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports4HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@lydqc34jpaku1h0vpqscjhaf03c4auixlqpwnlba/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@uusszc5bkkgl2iumvnn2qfftfgfvumwyu0dp0xca/bpk-tv/HubSports4HDnew/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports5HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/205_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@3gs0wcyiik1ka5z3kk3puevnfqxruwva3gedwsaa/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@tbb4pzzmey5fh0cgtwat0c25s1niq5lot54hpjba/bpk-tv/HubSports5HD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports6HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/206_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@ujqqnicobcwbjbv35hy2kab1qmncemdsuxm1aqca/bpk-tv/HubSports6/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@203xwa3yx50cehuzhkmnm1pnbkwo5vfi20uvzrba/bpk-tv/HubSports6/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports7HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/207_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@i5d2ccdwpqli2wwxjanehhyfew05axqyibxh3xda/bpk-tv/HubSports7/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@0ji4pgokbz5zie0dtg5akq25muocs5tr0xi2g4ca/bpk-tv/HubSports7/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubSports8HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/208_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@n4lod4lipzny52btqadofx2g2ht5s1q5nmqimiaa/bpk-tv/HubSports8/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@vaokt1diyjno5nspzyb4y2ugxpeqt024v4rttlda/bpk-tv/HubSports8/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier1HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@11fjra0fxefcyooftj2colscbe4ojkeq11tqrqca/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@itsp1paak4n5r5bq121f5f5w5i0u214dihqu15aa/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier2HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@okld5aannn2da52nwo2jnwg4bqt00yhaoe042vba/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@2pwgzqi1z0edsizc5nungmnsbj4tvjge2p5ewbaa/bpk-tv/HubPremier12/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier2UHD" tvg-logo="https://raw.githubusercontent.com/rahul979854/winner/refs/heads/main/hubpremr24k.png" group-title="HUB SPORTS",HUBPREMIER 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@gl1v5kyhnx4lrnkf3ozzpwl5vqy0o3xcgba3q2da/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@xd2wvuzcq1wswrwexlg14ynljl3axnfnxhy2o1ba/bpk-tv/HubPremier2_4K/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier3HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@gcbsunqoeiswrmhzo10z3cej1yqiqendgciq12aa/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@io0asdrujdioexlgmynffubehkstgq2iiqgl51ba/bpk-tv/HubPremier3/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier4HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@zhnefnxouruu3432vtkgw0ik0g4jdjj1ztp5f3da/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@lpsxr0boj4gkhadvxjbdhepdvd0t2nuolpeorkba/bpk-tv/HubPremier4/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier5HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=549415570a894df19a2aaa524d035bb6:8cd102efa9e4feeb98b62b1e8b1f10a4
-https://bks06.starhubgo.com:443/bpk-token/2aa@os1wo1kyo10n1c0wmwri3xn3w3t2wv1woc54bnba/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@1sxszakh4kgdimahvn2c2pftb2w2vmgq12gp0vda/bpk-tv/HubPremier5/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier6HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd1e866cc4e4bb1a230dda645081865:edaf41fe7af1249eef03bfac6e9ab632
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@zddcwjfemiygfwl0g0ih4gemtk5yqqnkzjykz5ca/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@ow443g3u01x1enfctppjv331n0tvxpxjoefysqca/bpk-tv/HubPremier6/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier7HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec361b73771546b3b42aadbd847d4ad6:bcb5a85c2236d319aff588fe280e0a35
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@l0fbanwhxeaujqsohr0cnlca0msojaitlodyt1ba/bpk-tv/HubPremier7/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@tcdho4zam2yzx2s5pgdt2go22tuyyrtpta00nlaa/bpk-tv/HubPremier7/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier8HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@asj2cxadgrl2cu4zjqxv3tyfobrmcxyfaysunbda/bpk-tv/HubPremier8/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@x3mcqny1tjawrdzinz01czea1qnhtamdxdqj3vaa/bpk-tv/HubPremier8/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier9HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e314720a4fc9414cb84862f3a4d0b072:a1bb6155792c5338280af6ac8cb8033d
-https://bks03.starhubgo.com:443/bpk-token/2aa@syzi5i0ohd3djnbrtoyqitr4reeog0hssyvaq4ba/bpk-tv/HubPremier9/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@sjrxs1ykf4kotqyxhyrrkcpfxzmk2v2gszv53nda/bpk-tv/HubPremier9/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier10HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9f5144687374b62a006b26fd15d6842:9ae3c1fbe13286859d852799a1189db4
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@jrdw2qeioysdsyk5mpuh1hmzbzk2qfhejpxndfaa/bpk-tv/HubPremier10/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@w4yhrqyxd5ecsupm5juzerpcbbvh4jeewam2ofaa/bpk-tv/HubPremier10/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HubPremier11HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png" group-title="HUB SPORTS",HUBPREMIER 11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75d04c230de440ec8efb0a45335522ab:c36eefb1f70a14919253cf68c9b442e4
-https://bks03.starhubgo.com:443/bpk-token/2aa@dv2fza2fsxedq3cbvn2ttzlsbiifpjgadvqnwwda/bpk-tv/HubPremier11/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@sxrw5pzqg045fbnyx4lrwdn55s2nu35lszal20aa/bpk-tv/HubPremier11/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="SPOTV" tvg-logo="https://epg.112114.xyz/logo/SPOTV.png" group-title="HUB SPORTS",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9b08ce3328f467dac1c6ff03b4cf358:499e104ca0c44ebc78d601094001cd67
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@dmopkz4bz3jfloziauqsb24us3bt1tkwdgvhfpba/bpk-tv/SPOTVNEW/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@xnus53y1rk4xtbm1v4s1cif51jndv2phxzslmlda/bpk-tv/SPOTVNEW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="SPOTV2" tvg-logo="https://epg.112114.xyz/logo/SPOTV2.png" group-title="HUB SPORTS",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3fab992070540f69551d9497a1499ab:6c48e33896b10978099f81ca0b454aff
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@yi2vp3sorx4vloq4swseiyl50ngcp3lxy0htalba/bpk-tv/SPOTV2NEW/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@d1o0cbde1jle2vpvbqmsp3ufcwywtwiydjv2nxaa/bpk-tv/SPOTV2NEW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Fight Sports" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="HUB SPORTS",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc9238583b9c4c619683cdb633ba3d12:84a756647f362c601502ef6bb4a013da
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@ujybyynjbhadxlm3ina3kqdqrlncoagouxekvaba/bpk-tv/FightSportsHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@3bonkxqlyvj3suzfkuxp020uoboqlt0f3bhpfgaa/bpk-tv/FightSportsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports1HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-https://bks06.starhubgo.com:443/bpk-token/2aa@xzayvcnkdaxku2sbuln1kbqlfsngaovixjeq0uca/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@gqimmtkmcrrnkohxkxvyzryyg3becd1ugamedfba/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports2HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@n4j3mrlwhvtf4bnwgxeoft0zc5tpkhl2nkpe5haa/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@phyhpz5qa52f5ogi5wakxqp4sx1b4zl4pt02pjda/bpk-tv/beINSportsHD2/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports3HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@eipzvxhk3fx4ousuu1h2j4slpxb0lo33emltoyda/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@awuhik12s4ajnkxopfjuvjpquwqf3bs0asqntfda/bpk-tv/beINSports3NEW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports4HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@rgbvcf0veukuy4tucq4wuckfkmujivirrontntba/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@w1ez5sogte5l0t5hqovyojs5fv3gj4xuwti5qeba/bpk-tv/beINSports4/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BeinSports5HD" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="HUB BEINSPORTS",BEIN SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
-https://bks05.starhubgo.com:443/bpk-token/2aa@1ytiib2spcbfacknmv2dihrqcyg4ecka1ixzs5aa/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@tsxv055g4wk5peqng2ds2plv5xu2nv45tct3vjaa/bpk-tv/beINSports5/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="ABC.Australia.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png" group-title="HUB EDUCATION",ABC Australia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@o4g4qws51yd00seghjxifn2bnftxrhuvo0culzca/bpk-tv/ABCAustralia/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@wgus5ylsqk4d5g22voayuif5rxvbv2h4wyuqwada/bpk-tv/ABCAustralia/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BBC.Earth.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png" group-title="HUB EDUCATION",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fad0942337db4c7e910cca2680cbae89:f48adcc739a34ac96a4848ad0bfba6cf
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@pjfgczoivyielruelqqklkmes3lkrriwpbjanpba/bpk-tv/BBCEarthHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@tnwwuri1z0sgcyv2h1utcmnjdrmtvfnettk3zjaa/bpk-tv/BBCEarthHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BBC.Lifestyle.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png" group-title="HUB EDUCATION",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@nfsm4pieisz5r5upo41ptez25alret5dn1ohtxaa/bpk-tv/BBCLifestyleHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@z1nbd0x4xfmipbuo2abgo1cgup4olyq4zljqzeda/bpk-tv/BBCLifestyleHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Crime.+.Investigation™.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" group-title="HUB EDUCATION",Crime + Investigation HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@p2vcqvhaxkawotvnjzgkblfal5dpvam3pcvaznda/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@zgfp4wstu2z1k3tlloxguk42nnwjztxvzyfnxoca/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Discovery.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png" group-title="HUB EDUCATION",Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@zh13ycuxmxdlagsvgn3hww1rfi4zohwazpx1xuda/bpk-tv/DiscoveryCh/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@scguyrteyqch44u0g3eq2mirdxuqbfo2skksxhaa/bpk-tv/DiscoveryCh/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="FashionTV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png" group-title="HUB EDUCATION",FashionTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@gg5woyjv210bh5fhdgazv4n3qtrzxvdogotqboca/bpk-tv/FashionTV/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@fhz5oaawe51bat5gdg25xs53aazj4xdaffacnvba/bpk-tv/FashionTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png" group-title="HUB EDUCATION",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@i5vf2gtrxwq124ttkppehllynw0pnbxzibb4dtda/bpk-tv/HGTV/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@jrxuic2b4scjqehrgf3h1pjreqk2ffsajrbnisaa/bpk-tv/HGTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HISTORY.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="HUB EDUCATION",HISTORY HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aaefa438407c4e39be6944fb82b952df:9fa8872f2a8d4d9395c40802527f84ac
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@4z1m1npnptnxnu3h42kikxzw1op4g1o14znv13da/bpk-tv/HistoryHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@xbrf4wfcewy1gjedooh10cl2ndnimrxnxbh24gba/bpk-tv/HistoryHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Travel.xp.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png" group-title="HUB EDUCATION",Travelxp HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@hqas2sxpcislok3kbpf0zbezfpbeqex2houjdhda/bpk-tv/TravelxpHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@xg2w3zg4q1wh1uksx5q0uyn1tfvbxnpwxgkp3jca/bpk-tv/TravelxpHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Adithya.TV.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",ADITHYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cba7be6fc9a4164aaccadd573b8616a:5931b2b6d4bb346bb54dceb451dc887f
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@3seoguffsyzqghajpcgp2j2midwertbn3snmjfba/bpk-tv/ADITHYATV/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@442fb2zqtxeqxeqc4bcjezlcy1xhpjap4oynokca/bpk-tv/ADITHYATV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",ANC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@zmy5eb4xb5tey4yxht2gaq5jcegd4hjqzobchuda/bpk-tv/ANC/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@ysh3fqs04uxa0omosdue2p0lanw2jpbuygfgfaca/bpk-tv/ANC/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Asianet.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Asianet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@12z1v4s2hpx0lclqvltcatxl33gp4ovx1uv30iba/bpk-tv/Asianet/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@kzd1pmdkpm5rntxprgkalhw5ywl4y4d1ktyta0aa/bpk-tv/Asianet/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Asianet.Movies.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Asianet Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd61b87c5444c63a5f503e6f7cf3de3:e72283be311aa6c5175be86862d96eb3
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@dasw1n2mi0oxrsmet20tzenx1ybqu3oddkj4u1da/bpk-tv/AsianetMov/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@m1a1wcc2dm1ki3npbk3mpbwnfe0gywvqmr1tzuba/bpk-tv/AsianetMov/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Astro Sensasi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@ym3kfpv1vlv2v5ua3tlfa0vk4cglxkzlys3imxba/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@tzul0ypntojdpwzfjmaskjxurpmg3sg4thaqfnda/bpk-tv/HubSensasiHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@b0e2qqtctqdcowymgjewnjybbhrgbhe2b0n45bda/bpk-tv/Astro_warna_new/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@kx04md2xk1tnqhbncx3bxv3zgq1vwh1akjfhmtaa/bpk-tv/Astro_warna_new/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Colors.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",COLORS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
-https://bks05.starhubgo.com:443/bpk-token/2aa@lf2lhfoyqp3uytir3s4ctyxok2kb50jrlvy031ca/bpk-tv/COLORS/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@r2z3xru2hx5gssa2t0uxat1pdbfpo5ner2q5yaaa/bpk-tv/COLORS/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Colors.Tamil.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",COLORS Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=48fe2c0e229848eca6c540290d29be8d:449b22a83e46cf2f337bf71f5b2c3bd3
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@jrazgpuice12rox5es1h1bsn4ikeiwzdjzm5jzda/bpk-tv/COLORSTamilHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@1re5tnaps2pwbp4tsy0d0j4h1yoez5md1ziz21da/bpk-tv/COLORSTamilHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Citra.Entertainment.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Citra Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa97b3bd1e64a4aa5eb9b42a7da036e:6d6f02aada98526dbf8191f70b0bff6b
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@tnxykhrh3cl3ebc1euptcorvo0m1fw0jtf14frca/bpk-tv/CitraEntertainment/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@e1ib5zjidf2hxhbw34a3prc4tdygkypoefxy5jba/bpk-tv/CitraEntertainment/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="DW.English.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",DW English HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab3236dbe1be474983feeaddc16be232:1a9c9159b431050742eabe21e37d12af
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@hswikk5f0cjjn2b0mej03nruuwrufss0hgutk0da/bpk-tv/DW/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@lh1cz4kqmle1l2to2ntcxwfs330zwiwxlz1aqgca/bpk-tv/DW/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="KTV.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c42ff2d89b0343eb8209aa01ec993d88:1475d4140f207ae15bfd8e6b83d02a35
-https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@v3u5yj1ft4dh3rtlh3i4cj5rtgmh3ho0v333xyda/bpk-tv/KTVHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@juex34m4s2w1tyzrwpthrjo13bcfznxhjea5sida/bpk-tv/KTVHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Karisma.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Karisma
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@uimt5z1nrn4hpwwer4a2iyg5thec12p4ucx1qpaa/bpk-tv/Karisma/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@bx3442ipw11ttktkcosxx133zjynxxhhbzmd3jba/bpk-tv/Karisma/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="SunMusic.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sun Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed89bf895a514836bc3235042b1cba80:804a3b2bbc0e9b3ba4db96889349e81b
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@2hwsbvhxykguo2lyrrgmwmfdkh5rvmi32p0uodaa/bpk-tv/SunMusic/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@bwhr34p44ew15pgxvpdwvpc13hr3jmx5bwotspda/bpk-tv/SunMusic/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Sun.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5261f30f630483e83ca4d5239cbd4b6:24704616ade384abae6cebc7e62c6c80
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@uulfkjn3ovifv5fgkui3qxkussf3krkkuan2z5ca/bpk-tv/SunTV/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@wr3a3b2kwduha5ml352z01b0dqnmhipaw5m34uba/bpk-tv/SunTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Suria.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Suria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6347d18bc19a475194eb5651208254f7:8b85be95bf378e6fa552f5eca1f05d8b
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@cnsrdk00jgoizhtnqazqdedhuujtm2qsctnid0ca/out/v1/791f6ceb99bc49568e8e1921c1f02db8/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@gz0piccal5bjime1kf3ylv5qe2iw4dsqgztnhtca/out/v1/791f6ceb99bc49568e8e1921c1f02db8/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Sony.MAX.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sony MAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
-https://bks05.starhubgo.com:443/bpk-token/2aa@jcdtvmuymmwsbv0erl0h3gglzisyymfdjshcpsaa/bpk-tv/SonyMAX/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@an0brh0qjhe4izy13z5ududcpmjtoi2rantd4wca/bpk-tv/SonyMAX/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sony Entertainment Television
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@xiircfdtbfku2h1baqo0iqcfkwfckuizx0txntaa/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@gxpsi4nw4jczhejaefdzx5er21z3tespgvwpllaa/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TV5MONDE.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",TV5MONDE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7444d9d4f4c441e4a9636b4a06822d1e:95e1b9d523beca239ff7c5e74df5f652
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@b130noaaxlxzr4jyvh1xp1v12iyoxotdbvmho1ba/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@2ynb32sixfut1r043psmi1c0znholihx2ijjskba/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Vasantham.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Vasantham HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d04aa93a9a8e4ce48d63693906bf8cd1:79919df17415c998c57ce8a2257f476b
-https://bks06.starhubgo.com:443/bpk-token/2aa@35t0s1uspklotkx4fyrpghvfxb55uw2g3pxs3nda/out/v1/50ab395bc1714f48a6d0e972c53fae1b/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@d1ji5rmbhb3hcggmz4utptq4dzyoc0pedlnzfpaa/out/v1/50ab395bc1714f48a6d0e972c53fae1b/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Vijay.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Vijay TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c496a02d46f544579384af6834469cd7:c32bb1120a1e9acc6ffbbca374f0a899
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@g4a4fat4dyxa2hpyxdmyfb2lawqhqpbyga5hfqda/bpk-tv/VijayTV/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@uwalzqrxcmfdwgzzyne3ubwsbdvfykgmuge0doba/bpk-tv/VijayTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Zee.Tamil.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47dde0640e614122a874b78be75ea286:e33fdb7f39f5322f14b82f4abdb192e2
-https://bks06.starhubgo.com:443/bpk-token/2aa@qatfbwjnmweywffb0bhvyglcmleymjqnqqxnoaca/bpk-tv/ZeeTamil/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@apfwqkarvyckbl4igjzvhkmbviylrfuca5b452da/bpk-tv/ZeeTamil/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Zee.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@fqav1w2gcuo1sadjsmx5zbkxnjbei3wff4riydba/bpk-tv/ZeeTV/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@rrtxhztoo44e5gftwsaw0hppshm223j4rpp2kbda/bpk-tv/ZeeTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Zee.Thirai.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Thirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c584a57a5edc44e1b9e58047019a6c95:14c86305c458b457a91affeffec3bcff
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@s0shctqol4imsxsalqvrmfpegrvw2ryesen4cdaa/bpk-tv/ZeeThirai/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@zj1zjfrnnhhvuuawrvohkwttkkp0ookjzxeajvba/bpk-tv/ZeeThirai/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Zee.Cinema.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b063c7afa634cd9b78852ccbb936fa2:5d5e5a474a56c88c63904446cdd3f123
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@0m0kvxavjlv4csvx31xbauvkprgtwk3f0clxwcba/bpk-tv/ZeeCinema/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@0kxtkrxe3okfop2xeueamohvc5w03uk20ymvfhaa/bpk-tv/ZeeCinema/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="AXN.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@0tyvcdpdcxkm2lohcqna4rlfgw4eovyy03jibwca/bpk-tv/AXNHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@qibiqttofabo4nunjzfuicqahpekac22qyfa5faa/bpk-tv/AXNHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Animax.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Animax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@olgl1xldzmn5ofzi32hipmwwpx1sz043ofxwycca/bpk-tv/AnimaxHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@2nyrxeitbh4sqktrvk4ncqdpjipdo2fb2pbmurba/bpk-tv/AnimaxHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HITS.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",HITS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c7890082be941669ddfb1096b41ee10:e29c76bd9d4be6433ea3a30af82d7de6
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@lify0tkmvalpkhf4e2vcjkqvh3ckbw4ulwf0tlca/bpk-tv/HITSHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@at4gufs301qwiwcbo14u53nilmyuxbnrad0o1tba/bpk-tv/HITSHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Lifetime.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Lifetime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5ae9e1d0b554bc4b8021295f14338a0:ea2edb22dd0f9dc530db7573f6480e9c
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@30tcmcmppkqjagzujh3pmhfyeiw4uata3em1msaa/bpk-tv/LifetimeHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@bpeyyvxuradx41ymb3gwhiqrl5ydbgo3b1cbldaa/bpk-tv/LifetimeHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Preview.Channel.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Preview Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
-https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@lvwfiwur0wazs3sgkfxdtnlqmjkvnbsflrsptzaa/bpk-tv/Preview/output/manifest.mpd?bkm-query
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@iuca23f2kaqxhj2on5cfrfay1lcvaappigzgtlca/bpk-tv/Preview/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Rock.Entertainment.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05e817347131436ab754a7367ab7cbf4:d50056adfc6ee86e7dfa2ccf0b8b9872
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@mthvigm24uczatuncf5n5pkrmi12jfsbmb2thqda/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@kmvh2c13v4qlm21kopnabkpyf4cl3bxykyx22sda/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="BBC.News.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png" group-title="HUB NEWS",BBC World News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bfc3a60371f47dfbf91589716bc4976:c4da05d94f2ee2c073cb093ab07d1215
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@zj0fqakujxacingckj2gkulabmpsobeqzxf2qqca/bpk-tv/BBCWorldNewsHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@eay13mzgapxtvucnqpk3zqx1zkaa4ohlearzs3ba/bpk-tv/BBCWorldNewsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png" group-title="HUB NEWS",Bloomberg Originals
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=621c8c018d304e4ab3676da441a90752:5012aa3d55c7f15af6e6bae0dd2e0908
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@n5ngnfevxzuvajiz1x4ph1m0ka1ptjlbnnwactda/bpk-tv/Quicktake/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@h4gk5rks1i3h0vxsy4u0fnu4d3rxr0puhqxx2eda/bpk-tv/Quicktake/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Bloomberg.Television.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" group-title="HUB NEWS",Bloomberg Television HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3990d086ffa1431897ec0df4b62b7a9c:f132946dc762434007bcf0abe4df9064
-https://bks05.starhubgo.com:443/bpk-token/2aa@aow2kmsjzslrz4llhe0ufmzvyeqtfxcta4snqsca/bpk-tv/BloombergTelevisionHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@gzv4ixivx0d3s3sycvxzll3rorjovh0fgjrpsjaa/bpk-tv/BloombergTelevisionHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CGTN.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png" group-title="HUB NEWS",CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d5c64d3c8f464ea33d4ddee66ee13c:e515502bedb70262ea62e87d48e24f9c
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@ejryrpckfch4jevjvz12lcrd5eikeo2texobr5ca/bpk-tv/CGTN/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@t2qmwpxwdsz43zl1l0lsabzm54fhet31tcpvw5da/bpk-tv/CGTN/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CNBC.Asia.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png" group-title="HUB NEWS",CNBC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8411ae48e2d940089011964dd57a4a39:b20405dd1280c2c999d2e630a1f54187
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@2ucipalxka3bmz3a3gmmqfq4aghva0dy20tvmvca/bpk-tv/CNBCHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@3j1bflownhumjloo3tzokwdkw2p0oizs333yw3ba/bpk-tv/CNBCHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CNN.International.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png" group-title="HUB NEWS",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@vefcd02uuimidvyayar5qkegubfjryqgvg25apba/bpk-tv/CNNHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@lnskw0v1jkzkhjj3ikbddevmvlktusvolzutfmca/bpk-tv/CNNHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="HUB NEWS",Channel News Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@2wjfbfnugveuerfw1ronutkckcxnkjij24fdotca/out/v1/cc880f54b1e04df9988c5fb54f37f881/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@btucimpkskarnoo5mfkw5jfqygzevac1bt3ah3da/out/v1/cc880f54b1e04df9988c5fb54f37f881/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Euronews.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png" group-title="HUB NEWS",Euronews HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a949912200ee45efb2f30d3260eb4eb1:d9ea6196758f70ad84123906b5fa218c
-https://bks05.starhubgo.com:443/bpk-token/2aa@11vyan5dxcdunfjjfrkcolrb044ofgi11lrj0tda/bpk-tv/Euronews/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@gvkqjyt1kbgb50uqvfaytvatq5jvcmc4gfoygoaa/bpk-tv/Euronews/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Fox.News.Channel.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png" group-title="HUB NEWS",Fox News Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07ee8c54c2346b9a55658ba2253e1bb:2afdbfa34b08414399fb75562313a31e
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@bfcxsut4i2ks4divcigwteofjpiryve3bltkrbca/bpk-tv/FNCHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@pjutgg2oro0yq2rmec5llihnmqlc3urbpzq1jqda/bpk-tv/FNCHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="France24.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png" group-title="HUB NEWS",France24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c5e648fc2a64499a9f5c112dc66a9c2:5fba156eab1ed43bbe1ca86018145e9d
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@k303mm1elxtr3ltzhhkadv1zywlxohd1kxbvd0aa/bpk-tv/France24/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@kbo3pcvkyv5jubjatgnb1205eckql5tikvie2uca/bpk-tv/France24/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Phoenix.InfoNews.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="HUB NEWS",Phoenix InfoNews HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cfb0befbe3e463b98b9e76e24be8111:6618e3ba4af28955d3312ac9f2ba03e1
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@0whszbgi4ighypjgq32aupetd2w3rmoq0u4p0uda/bpk-tv/PINCHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@dxr2u13sgstohtf5d1btxdzjxtyneh3odvibxoaa/bpk-tv/PINCHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Sky.News.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" group-title="HUB NEWS",Sky News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397ab72f1e44b3abea34e879511cdad:e4a449c98410d136b21ddef7f58c5a6d
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@3uyomw42c1rzk4okohxoqr3ymngfwdtv34dgdaba/bpk-tv/SkyNewsHD/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@3evex1vyus2oxfas50bpqkjoxlgjfz3o3oomynca/bpk-tv/SkyNewsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVBS.News.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="HUB NEWS",TVBS News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@x5rk0arnhkjderhommm1gdvubs3pusgix3ixzvaa/bpk-tv/TVBSNews/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@etj13yl3gnxd5junqpa25tw1rpzm0oh4envqqada/bpk-tv/TVBSNews/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" group-title="HUB MOVIES",CCM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@gm1bkooynhizjb00je1ybwdu2ub1oqstgs1ddwca/bpk-tv/CCM/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@0yvrizzsxgcfh45afvabildrsthoneko0sozhpca/bpk-tv/CCM/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Celestial.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="HUB MOVIES",Celestial Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@3xjxy3avg3cxdhetc3spwtor1b5n0foh3vqk1iba/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@1wc3ie2xkudrqutldf4duf0riyxvihcb12zvhsda/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Cinema.One.Global.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png" group-title="HUB MOVIES",Cinema One Global
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
-https://SH-BKS400-11.starhubgo.com:443/bpk-token/2ab@xxfviefqwucruej0dfo1wlkrik3njfcjxddm1sca/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@lidbgiokneyazlzkncycjgcmq2c0iqbslyhq2wca/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CINEMAX.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="HUB MOVIES",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
-https://bks05.starhubgo.com:443/bpk-token/2aa@qq4gnhbj01u3unpg0xpvy3n0oceuxj1jqa0xxzba/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@3tugqth4s0aoo0lwozfo4jnahp5evb223dqxknda/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
-https://bks06.starhubgo.com:443/bpk-token/2aa@qhe5tqctq2pckpz1wiuuwi4hbn2bz5euqxax2gba/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@bjqmahxkbsb22utulrpwlazaooicedyzbhbrdsca/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="HUB MOVIES",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@0vrqlvyzgcovcjkcruwbsdbxkrone2kf01aniaba/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@megaxmg1ya2sz2i43k0mrmaozedrbyftmkx3uzda/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@nvctzoqykmg1rvn0qn1ptfgt3alvymwdnhzvwyda/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
+https://mh-bks400-03.starhubgo.com:443/bpk-token/2ac@2mr5lmzvf4prfxwgseknac5xykgl25cl2my3e3ba/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Signature HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@ctewfm1esywq3jsjsdkq5jmlywyernb1c1iqk0aa/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@g14za5jc1hd2xkvbbrdzp3tb41zwpgypgzhedkaa/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="HITS.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png" group-title="HUB MOVIES",HITS MOVIES HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@2fk1cqc0inla0cnzeaumsuwfanpr0wau21wqpica/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@1xytryoucpgc11fdujqcwrhdr35f4mew13d14oba/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="HUB KIDS",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4648ad8290a410a85781044307672ae:78bcd2f197a761ea3a885d13971d6aa9
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@3mgjuqdzzercond4nleoamsibhhtjcf23o5uxfca/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@ihmensuvqrujsfag2hvfxyi0eb0bdjteizmgekaa/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CBeebies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="HUB KIDS",Cbeebies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@q3ryyspfhcdl4egffnfucdrrfhmpegw2qtaf1hca/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
+https://bks06.starhubgo.com:443/bpk-token/2aa@jjxii3uj3cbvdydlkvshlorq0bk0fckhjztahlda/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="DreamWorks.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png" group-title="HUB KIDS",DreamWorks Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
-https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@f4wvrqvv1wgcwwdvtje5fnldblqxnnemfun34gca/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/2aa@bpgtsvfxzmkwgwlshygxhmgfllztzumnbf313dca/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Nick.Jr.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png" group-title="HUB KIDS",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b329a17ccab74793895b2302b1e8d9dc:d5bab2e51f8597031fe497f6c00addf5
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@zmkawqzcjbycwwhkjkehauambdgtcqfmz4rgzgca/bpk-tv/NickJr/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@egkqqpuuibc4rjchgz13vuab5yrrce2deg2jq5aa/bpk-tv/NickJr/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Nickelodeon.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="HUB KIDS",Nickelodeon HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
-https://bks06.starhubgo.com:443/bpk-token/2aa@yrlgonqwozyvbqpkkw0f0xm20io2srldybpob1da/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@eq31igxnwpdzmvc2dfp2z1xrmgbm5gszeyr3hqaa/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Arirang.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Arirang TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@2ulfpid3ov2b3zwf1gimqxk4qgh3kzd0200ym3ca/bpk-tv/ArirangTV/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@spwqjzgwzcgflfiiwvqqgmbtsv2tfmkwsrwsabca/bpk-tv/ArirangTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CCTV-4.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CCTV-4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@5trptllhg4non4yj4yjk4d5gxw5m21205bkj23aa/bpk-tv/CCTV4/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@d4srl2julgorx2m3wectffdxydqxm2cpd4eilmba/bpk-tv/CCTV4/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="CTI.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CTI TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d6c6ac1bf1d496aada3738e307a97cc:ea46dc47f8c0c977e47e85bfd255a433
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@ce0pm0x5i5rj55umohbqru5yuxar4dt4c00nfcda/bpk-tv/CTITVHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@3kumiughrsbr005oifwomizqinxcfdcv30q3skca/bpk-tv/CTITVHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Ch.5.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
-https://bks05.starhubgo.com:443/bpk-token/2aa@hbph0zoi23ihl20fk2q014out3jy1rowhrlwahca/out/v1/6c76a19723b643728103c418655f9577/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@fo2s1qqurlodc4xlxmu5fyfxbjqdx2gefqdl1aaa/out/v1/6c76a19723b643728103c418655f9577/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Ch.8.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 8 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
-https://bks06.starhubgo.com:443/bpk-token/2aa@j2gevmm41qusrnoq1l0hbnikzacxbjfdjmcm00da/out/v1/7fbfa57bc3274c9ca6e8b5556067ec6a/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@w0e5t4fft2p0xbluridzmj4h31vgz5upweyu4gba/out/v1/7fbfa57bc3274c9ca6e8b5556067ec6a/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Ch.U.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel U HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1f19f60c754e7da1973ccf8aefd255:d00c242fc75db48a900bbdd4ca428688
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@iwjxjeqxg3graoohsf4fvtotiisn0ncbiuqkkrba/out/v1/2abb8163e8e54f8b9bd0ae4b8c0c7e47/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@en5cgac03lyay4njpc22d4fmamj1xqbqepg5fvda/out/v1/2abb8163e8e54f8b9bd0ae4b8c0c7e47/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Dragon TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@efkv05vyivk5xclbd2d3tukv5djrkv4pel1izkaa/bpk-tv/DragonTV/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/2ab@4c4q4o5gyd0135oigoli22b334xqhux142c1twda/bpk-tv/DragonTV/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="ETTV.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ETTV ASIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac34964e0094890a3c7f45e1fe6a697:452682f2f5ec1e42c4771abbc04c40f7
-https://bks05.starhubgo.com:443/bpk-token/2aa@kyc2qqcolqdc0orvhjuajfybbvcwaheukignkoca/bpk-tv/ETTVHD/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@avqycgczcclyi3oaca5utbrfmeifewqrafujyyca/bpk-tv/ETTVHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Hub.E.City.(HD).825.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD 825
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
-https://bks05.starhubgo.com:443/bpk-token/2aa@d53yc14nxdlm1mn1fqrsh1rfw3yphwywdpzjyfca/bpk-tv/HubECityHD825/output/manifest.mpd?bkm-query
+https://MH-BKS400-05.starhubgo.com:443/bpk-token/2ac@s0hrtdfz5eooepg1wynrmpchhsv4j22iseyittba/bpk-tv/HubECityHD825/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Hub.E.City.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@5ta3hmjhcu5qvdbgxckl4b0pys5ei5bl5b11i0ca/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@hrweipfa0sa3vbzcmvl11njq4cjufb0lhra3i5ba/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Hub.VV.Drama.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub VV Drama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/2ab@2riwu2akczsstdwsclsn0rmjzbpesffh2zeq1kda/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/2ac@qlejxpo3re34zdcy001uoiso5m2cj03tqj3uu0da/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="KBS.World.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/2ab@vrhv4jix4u0hr3med4y50pk3tan2jvpcvd2tr5da/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@mjdqmntinasvnbilgxkmlgaz0wl0ael1mxxltyda/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",NHK WORLD - JAPAN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@rbycbqxkaleaoykuybew0qfca5mawia2r5mz4fda/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/2aa@r4mgkjwwtzifzr4nnuywezmusmuhtrksroixqxca/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="ONE.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ONE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@zfgneuoyyurqkkckpdwgsm0iiforjdbvzreweeca/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@cwq3qrlvcwdgoknuazeqvb1bd5qfmhm2ccsgqbda/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Phoenix Chinese Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
-https://sh-bks400-07.starhubgo.com:443/bpk-token/2aa@s4v1lllrxopnnvkduujqelxxwgup3400sabau4da/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/2ac@3k54qxab31d4swodbzxpm43bprx0xh2f3kjhqhaa/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
-https://RCG-BKS400-06.starhubgo.com:443/bpk-token/2aa@m3rcfoczhkuyz2usyd1mddfk2mlpuirtmjtzf4ca/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/2ac@wa0nmdvrixrne3rqixnzyu1ygcfqod1iwe4hxmba/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
-https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@nysw45qml005dumsc4tpjfn35jdwuv5hngsuxhaa/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/2ab@dffoywt1uyb141umjnhstk2qn5ijrdw3d1fmroda/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
-https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@yvqul2rzcsorha4ttecfsbjxydofe3cpy1bjijaa/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/2ac@gs4vcqam0xkacuvreauz33lfarrupvaeg2pibfba/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
