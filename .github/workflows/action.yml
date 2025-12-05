@@ -36,7 +36,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add hubsports.m3u
+          git add StarHub.m3u
           git fetch origin main
           git reset --soft origin/main
           if git diff --cached --quiet; then
