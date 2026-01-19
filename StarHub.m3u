@@ -3,3 +3,79 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
  
+#EXTINF:-1 tvg-id="Nickelodeon.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="HUB KIDS",Nickelodeon HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FNickelodeonHD%2Foutput%2Fmanifest.mpd&token=519a08bcd4f12b7324a5bf0b8a2ee544
+#EXTINF:-1 tvg-id="Arirang.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Arirang TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FArirangTV%2Foutput%2Fmanifest.mpd&token=0f414e4da1c04ed638b46b32489caad9
+#EXTINF:-1 tvg-id="CCTV-4.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CCTV-4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FCCTV4%2Foutput%2Fmanifest.mpd&token=0d42c2c861fb6a6f7f2ad333e0602bda
+#EXTINF:-1 tvg-id="CTI.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CTI TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d6c6ac1bf1d496aada3738e307a97cc:ea46dc47f8c0c977e47e85bfd255a433
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FCTITVHD%2Foutput%2Fmanifest.mpd&token=eeaef3f0ea0c043aa1545779525caa1e
+#EXTINF:-1 tvg-id="Ch.5.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FMediacorp_CH5_DASH%2Foutput%2Fmanifest.mpd&token=c9d370630aee7ab6736be9db8876b3c8
+#EXTINF:-1 tvg-id="Ch.8.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 8 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FMediacorp_CH8_DASH%2Foutput%2Fmanifest.mpd&token=57ea1bed370449fc19bb5d77c6dbd674
+#EXTINF:-1 tvg-id="Ch.U.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel U HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1f19f60c754e7da1973ccf8aefd255:d00c242fc75db48a900bbdd4ca428688
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FMediacorp_CHU_DASH%2Foutput%2Fmanifest.mpd&token=8d0184cb0169c468946ba459ca1a02f3
+#EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Dragon TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FDragonTV%2Foutput%2Fmanifest.mpd&token=600c10f68a5e84c256e3e0251839be1a
+#EXTINF:-1 tvg-id="ETTV.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ETTV ASIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac34964e0094890a3c7f45e1fe6a697:452682f2f5ec1e42c4771abbc04c40f7
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FETTVHD%2Foutput%2Fmanifest.mpd&token=db48f2dd95b0a5cc04f0e56dfe923554
+#EXTINF:-1 tvg-id="Hub.E.City.(HD).825.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD 825
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FHubECityHD825%2Foutput%2Fmanifest.mpd&token=25d7afe117791e63be0d3d27b71cbee8
+#EXTINF:-1 tvg-id="Hub.E.City.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FHubECityHD%2Foutput%2Fmanifest.mpd&token=14d0dabd29ed2ecdf1b9a61a1ebb0dc1
+#EXTINF:-1 tvg-id="Hub.VV.Drama.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub VV Drama HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FHubVVDramaHD%2Foutput%2Fmanifest.mpd&token=6165f66ba3251f492898ecfaa59522ac
+#EXTINF:-1 tvg-id="KBS.World.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",KBS World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FKBSWorldHD%2Foutput%2Fmanifest.mpd&token=04d6bfb38b3996eb7d4d505d46800290
+#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",NHK WORLD - JAPAN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FNHKWORLDJAPAN%2Foutput%2Fmanifest.mpd&token=f8ec1cf5e535c8dd4015e2e072a24ae4
+#EXTINF:-1 tvg-id="ONE.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ONE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FONEHD%2Foutput%2Fmanifest.mpd&token=f41ebd77bccc9d629e118b529533b52f
+#EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Phoenix Chinese Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FPCCHD%2Foutput%2Fmanifest.mpd&token=c4b006b5f0025916b5e118482fe78c3b
+#EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FTVBJadeHD%2Foutput%2Fmanifest.mpd&token=5b3d28a6f7293ac906497bb811122db2
+#EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FTVBXingHeChannel%2Foutput%2Fmanifest.mpd&token=595873a26ae17d03b9810f6ee9f9f492
+#EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
+https://mpdchecker.webiptv.site/output.php?url=https%3A%2F%2Fucdn.starhubgo.com%2Fbpk-tv%2FTVBSAsia%2Foutput%2Fmanifest.mpd&token=e2c5309b75e79410cb28578631d5920c
