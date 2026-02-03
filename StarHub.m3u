@@ -3,3 +3,23 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
  
+#EXTINF:-1 tvg-id="ONE.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ONE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
+https://sh-bks400-07.starhubgo.com:443/bpk-token/1aa@sk3i42k1vdztlfqh21g3m0r2zfukhshxsujtbjca/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Phoenix Chinese Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
+https://bks05.starhubgo.com:443/bpk-token/1aa@hjoy1fynzbpxautoejkwl2qxlyjsd4obhzkjb1aa/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@yusnt11wkwno5yctonvjqf1gx5gvm124yueutlda/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@jcfnpvfpuu3vgviyodsk3k04klsij1lnj2fpgnba/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
+https://bks03.starhubgo.com:443/bpk-token/1aa@4fthvrb3m4ugwlysloqesgpkddpz2jnm4f5p0hca/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
