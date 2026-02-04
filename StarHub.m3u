@@ -3,3 +3,19 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
  
+#EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Phoenix Chinese Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
+https://sh-bks400-07.starhubgo.com:443/bpk-token/1aa@lipg4x0i3zy50bsrpdcpj4m2pnc0tr5vlw13bcca/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@ejtkgzumnkzedjn5jpfqlgvmsrj0usjgenxa3waa/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
+https://sh-bks400-07.starhubgo.com:443/bpk-token/1aa@5g2chk13ql2inepz352huyfouoxbxyr05yizy5da/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
+https://bks06.starhubgo.com:443/bpk-token/1aa@maog1azkyzmdesa55rzaz2mwbkdqtzgimqkouwca/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
