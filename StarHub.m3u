@@ -3,3 +3,39 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
  
+#EXTINF:-1 tvg-id="Hub.E.City.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
+https://bks01.starhubgo.com:443/bpk-token/1aa@2fuadcs3qcmiyt5hjmnbsibgeupbfyqq2rqnzmca/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Hub.VV.Drama.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub VV Drama HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/1ac@cqmontbgszvnwrgio1v2zz20gtaetl1mc43togaa/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="KBS.World.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",KBS World HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@incrukq3jeskbbg4rhjidecjvyktievcinuiu0aa/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",NHK WORLD - JAPAN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
+https://bks05.starhubgo.com:443/bpk-token/1aa@qshssran4ikgs2nmquey2pefdbu2rumeqcddipaa/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="ONE.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ONE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/1aa@v4ml24nttnr1hmig2dtsezwy3dvh1cxpvkoq2oba/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Phoenix Chinese Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@2xvjacxxwgbimpck3n3bwltae45nncqy2xdqasda/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
+https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@0ydb4orgpey1vgwazc1mihc23sg4iqxl0gddxwba/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@5nqrzgp5bgg12o1jbb5hcadtngpdmmwz5ngizwda/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
+https://bks03.starhubgo.com:443/bpk-token/1aa@xnhgqilq3yac3sgr0fyxcomaron1rbe0xnlo54aa/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
