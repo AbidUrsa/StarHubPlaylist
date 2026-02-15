@@ -3,43 +3,139 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
  
+#EXTINF:-1 tvg-id="Sky.News.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" group-title="HUB NEWS",Sky News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d397ab72f1e44b3abea34e879511cdad:e4a449c98410d136b21ddef7f58c5a6d
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@cbt1wlvbmo1ovrxhewn21gxnx0iy2w3kcdkgv4aa/bpk-tv/SkyNewsHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="TVBS.News.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="HUB NEWS",TVBS News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/1ab@hsganoxg0auz3b53zlpx3na02orubit1hgaz4yaa/bpk-tv/TVBSNews/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" group-title="HUB MOVIES",CCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
+https://RCG-BKS400-06.starhubgo.com:443/bpk-token/1aa@w5ivbmwzdvgqzblltn4vgrkdy23hknatwlkob2ca/bpk-tv/CCM/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Celestial.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="HUB MOVIES",Celestial Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/1ab@eehscikx2ikajog2am2rroefqubzruaseqblr4ba/bpk-tv/CelestialMoviesHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Cinema.One.Global.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png" group-title="HUB MOVIES",Cinema One Global
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@jl4oihxkz1b32mhpnzllp23qow0sxd0zjlixixda/bpk-tv/CinemaOne/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="CINEMAX.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="HUB MOVIES",Cinemax HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
+https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@qzxtqm4b5ocsjqn1df4zkphbzmn43eetqz4r53ca/bpk-tv/CinemaxHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Family HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/1ac@irogii1a0zab3twhjjmj13mqqgkutbc0i551l3ca/bpk-tv/HBOFamilyHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="HBO.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="HUB MOVIES",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/1ab@sf2qj3ayqdgvttjpszw2sybt0zmbhmkhs1a1efaa/bpk-tv/HBOHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/1ab@11pdk2uh5nirdhfwliwoo5guyj441qch1pj0zkda/bpk-tv/HBOHitsHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Signature HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@gypgyvrh5zaxgn0fjrcuj5mql1b4tbong0w11aaa/bpk-tv/HBOSignatureHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="HITS.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png" group-title="HUB MOVIES",HITS MOVIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
+https://bks03.starhubgo.com:443/bpk-token/1aa@exwmfcc00sviyt5j2pzrxnzkeuzvflrqex0ekuba/bpk-tv/HitsMoviesHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="HUB KIDS",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4648ad8290a410a85781044307672ae:78bcd2f197a761ea3a885d13971d6aa9
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@m1rghizkh02af32lzomapdnoqs1ouzbkm5vm2hba/bpk-tv/CartoonNetwork/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="CBeebies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="HUB KIDS",Cbeebies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
+https://bks06.starhubgo.com:443/bpk-token/1aa@ypfguwexvyq0sygbjhtigkminj4lrbvfy5bo1ada/bpk-tv/CbeebiesHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="DreamWorks.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png" group-title="HUB KIDS",DreamWorks Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
+https://MH-BKS400-06.starhubgo.com:443/bpk-token/1ac@lsyreafochsaetlycpio3rdjakseoebilw215pba/bpk-tv/DreamworksHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Nick.Jr.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png" group-title="HUB KIDS",Nick Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b329a17ccab74793895b2302b1e8d9dc:d5bab2e51f8597031fe497f6c00addf5
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@unykellrblrmn2xip5nrcqviwondwcz0u5dml3aa/bpk-tv/NickJr/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Nickelodeon.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="HUB KIDS",Nickelodeon HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
+https://bks06.starhubgo.com:443/bpk-token/1aa@tl4c3kxgzlul3m1l1dn5o2f0vw2sxix0t10ks2aa/bpk-tv/NickelodeonHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Arirang.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Arirang TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/1ac@nf1khvwsml3u0kfi54sdtwvoknlzw0jvnlkxeada/bpk-tv/ArirangTV/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="CCTV-4.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CCTV-4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
+https://bks05.starhubgo.com:443/bpk-token/1aa@zobkp24tfi3r1urg5kwlecu4ynwlq0dxz4f1vcca/bpk-tv/CCTV4/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="CTI.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CTI TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d6c6ac1bf1d496aada3738e307a97cc:ea46dc47f8c0c977e47e85bfd255a433
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/1ab@vcns2s4eujsl0geaddrt20ezf3vitexuvwllpeba/bpk-tv/CTITVHD/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Ch.5.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
+https://mh-bks400-03.starhubgo.com:443/bpk-token/1ac@j2mx1n1wt3oxnxnrrqolbzox1gdh13o1j2fvu2da/out/v1/6c76a19723b643728103c418655f9577/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Ch.8.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 8 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
+https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@0o0ryxqtjhc5czw0crtmeudrpzwtoe4f02bxxbda/out/v1/7fbfa57bc3274c9ca6e8b5556067ec6a/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Ch.U.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel U HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1f19f60c754e7da1973ccf8aefd255:d00c242fc75db48a900bbdd4ca428688
+https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@3ujbpigugf2bjm020k2dqtc4qehnkyds3wq2m3da/out/v1/2abb8163e8e54f8b9bd0ae4b8c0c7e47/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="Dragon.TV.Intl.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Dragon TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
+https://MH-BKS400-07.starhubgo.com:443/bpk-token/1ac@dtts1lelokopb3xbtq345hfxxyy2u24cd3cpy4ba/bpk-tv/DragonTV/output/manifest.mpd?bkm-query
+#EXTINF:-1 tvg-id="ETTV.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ETTV ASIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac34964e0094890a3c7f45e1fe6a697:452682f2f5ec1e42c4771abbc04c40f7
+https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@og2ipif4qd3bfx5g4kmevyr4qktbh0dkogkrpyba/bpk-tv/ETTVHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Hub.E.City.(HD).825.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD 825
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
-https://bks02.starhubgo.com:443/bpk-token/1aa@rbw3mjsaywtfjbjeh1210m1zsumqnhlsrdrmwhca/bpk-tv/HubECityHD825/output/manifest.mpd?bkm-query
+https://bks02.starhubgo.com:443/bpk-token/1aa@pfizwxfraf14wri3gwdgtqsnpdlbkw3nphpimzba/bpk-tv/HubECityHD825/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Hub.E.City.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub E City HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
-https://bks01.starhubgo.com:443/bpk-token/1aa@dni403itbzlxtm41gqw4dq2v1jidsxohdzmtataa/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
+https://bks01.starhubgo.com:443/bpk-token/1aa@xdjkm2xlejrrpagnplgx4suyyp3iscd5xxnhwsda/bpk-tv/HubECityHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Hub.VV.Drama.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Hub VV Drama HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
-https://MH-BKS400-08.starhubgo.com:443/bpk-token/1ac@nxoabtg00bemkqmh03rdx3acgf1vdiyunvx3cgda/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
+https://sh-bks400-08.starhubgo.com:443/bpk-token/1aa@eyqncvagdwjucrjsm2sqjb1ekbagmtifeslfndda/bpk-tv/HubVVDramaHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="KBS.World.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
-https://SH-BKS400-09.starhubgo.com:443/bpk-token/1ab@i2wlixi51ob3cn01pztibnxqobcx3c0fiu0nhbda/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
+https://SH-BKS400-09.starhubgo.com:443/bpk-token/1ab@vuutno12sowz3r2qtlptqjh12off3mt1v2yvcyaa/bpk-tv/KBSWorldHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",NHK WORLD - JAPAN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/1ab@sxjljf1ygnfv20zv5zk3wtwsk42n0kkzsjvae3da/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
+https://bks05.starhubgo.com:443/bpk-token/1aa@5vn0tmdrwjps3s4nxeohs1uhz4pnt4e15fjljsda/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="ONE.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",ONE HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
-https://SH-BKS400-10.starhubgo.com:443/bpk-token/1ab@kdhkukad2irkrw4cph3m5ouivy0yrcvckr2m12da/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/1aa@zqtxzmako4gtbrksrb4kyhptzyg22ngdzohmgzaa/bpk-tv/ONEHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Phoenix Chinese Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
-https://MH-BKS400-05.starhubgo.com:443/bpk-token/1ac@stxvaaul4wcaqxf0any24plbaq32nfaasnimaqaa/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/1aa@5teu4mgjsq0tj3ioac4h4ji3zm5ebvht5nqpbzca/bpk-tv/PCCHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVB.Jade.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Jade HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
-https://MH-BKS400-04.starhubgo.com:443/bpk-token/1ac@d1a0xutldi5sodhcxgc5pbupjhygq4f3d1wdxeda/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
+https://sh-bks400-07.starhubgo.com:443/bpk-token/1aa@eeafo2dwauyrpwn2ikgrrak2yxbbird5e0u4rjda/bpk-tv/TVBJadeHD/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVB.Xing.He.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVB Xing He HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
-https://CO2-BKS400-04.starhubgo.com:443/bpk-token/1ab@k3zxyr0th5chkij4brqndtprd3kp4foukdf2vjca/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
+https://SH-BKS400-11.starhubgo.com:443/bpk-token/1ab@vwdo44yuoyz1dazmncxsuh223zv3qtxhvcfxnida/bpk-tv/TVBXingHeChannel/output/manifest.mpd?bkm-query
 #EXTINF:-1 tvg-id="TVBS.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",TVBS Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
-https://bks03.starhubgo.com:443/bpk-token/1aa@bhln0x10mvj54kwwmqd1xw0up5yzkt43bhhfvbaa/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
+https://CO2-BKS400-04.starhubgo.com:443/bpk-token/1ab@2h1jub4rmhrgytdqoxybwwtidm5zocnq2zhczzca/bpk-tv/TVBSAsia/output/manifest.mpd?bkm-query
