@@ -3,6 +3,102 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz" refresh="1440" max-conn="1" refresh="24" 
 
  
+#EXTINF:-1 tvg-id="Travel.xp.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png" group-title="HUB EDUCATION",Travelxp HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Adithya.TV.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",ADITHYA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cba7be6fc9a4164aaccadd573b8616a:5931b2b6d4bb346bb54dceb451dc887f
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",ANC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Asianet.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Asianet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Asianet.Movies.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Asianet Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edd61b87c5444c63a5f503e6f7cf3de3:e72283be311aa6c5175be86862d96eb3
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Astro Sensasi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Astro Warna HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Colors.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",COLORS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Colors.Tamil.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",COLORS Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48fe2c0e229848eca6c540290d29be8d:449b22a83e46cf2f337bf71f5b2c3bd3
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Citra.Entertainment.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Citra Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa97b3bd1e64a4aa5eb9b42a7da036e:6d6f02aada98526dbf8191f70b0bff6b
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="DW.English.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",DW English HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab3236dbe1be474983feeaddc16be232:1a9c9159b431050742eabe21e37d12af
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="KTV.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",KTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c42ff2d89b0343eb8209aa01ec993d88:1475d4140f207ae15bfd8e6b83d02a35
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Karisma.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/116_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Karisma
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5f3a6256209f40028a2954d02f3de31d:15e506cc2530e5e7c0a71d5561dc4d02
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="SunMusic.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sun Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed89bf895a514836bc3235042b1cba80:804a3b2bbc0e9b3ba4db96889349e81b
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Sun.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sun TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5261f30f630483e83ca4d5239cbd4b6:24704616ade384abae6cebc7e62c6c80
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Suria.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Suria HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6347d18bc19a475194eb5651208254f7:8b85be95bf378e6fa552f5eca1f05d8b
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Sony.MAX.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sony MAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Sony.Entertainment.Television.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Sony Entertainment Television
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="TV5MONDE.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",TV5MONDE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7444d9d4f4c441e4a9636b4a06822d1e:95e1b9d523beca239ff7c5e74df5f652
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Vasantham.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Vasantham HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d04aa93a9a8e4ce48d63693906bf8cd1:79919df17415c998c57ce8a2257f476b
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Vijay.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Vijay TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c496a02d46f544579384af6834469cd7:c32bb1120a1e9acc6ffbbca374f0a899
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Zee.Tamil.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47dde0640e614122a874b78be75ea286:e33fdb7f39f5322f14b82f4abdb192e2
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Zee.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
+Failed (HTTP 403)
+#EXTINF:-1 tvg-id="Zee.Thirai.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Thirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c584a57a5edc44e1b9e58047019a6c95:14c86305c458b457a91affeffec3bcff
+Failed (HTTP 403)
 #EXTINF:-1 tvg-id="Zee.Cinema.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png" group-title="HUB ENTERTAINMENT",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b063c7afa634cd9b78852ccbb936fa2:5d5e5a474a56c88c63904446cdd3f123
@@ -50,112 +146,4 @@ Failed (HTTP 403)
 #EXTINF:-1 tvg-id="CNBC.Asia.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png" group-title="HUB NEWS",CNBC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8411ae48e2d940089011964dd57a4a39:b20405dd1280c2c999d2e630a1f54187
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CNN.International.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png" group-title="HUB NEWS",CNN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="HUB NEWS",Channel News Asia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7cd1bb6763c04f26970ebce1a2adbb69:b535f8e6892e06e28525b23563529409
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Euronews.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png" group-title="HUB NEWS",Euronews HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a949912200ee45efb2f30d3260eb4eb1:d9ea6196758f70ad84123906b5fa218c
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Fox.News.Channel.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png" group-title="HUB NEWS",Fox News Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f07ee8c54c2346b9a55658ba2253e1bb:2afdbfa34b08414399fb75562313a31e
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="France24.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png" group-title="HUB NEWS",France24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c5e648fc2a64499a9f5c112dc66a9c2:5fba156eab1ed43bbe1ca86018145e9d
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Phoenix.InfoNews.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="HUB NEWS",Phoenix InfoNews HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7cfb0befbe3e463b98b9e76e24be8111:6618e3ba4af28955d3312ac9f2ba03e1
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Sky.News.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" group-title="HUB NEWS",Sky News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d397ab72f1e44b3abea34e879511cdad:e4a449c98410d136b21ddef7f58c5a6d
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="TVBS.News.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="HUB NEWS",TVBS News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png" group-title="HUB MOVIES",CCM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Celestial.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="HUB MOVIES",Celestial Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Cinema.One.Global.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png" group-title="HUB MOVIES",Cinema One Global
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CINEMAX.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="HUB MOVIES",Cinemax HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="HBO.Family.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Family HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="HBO.HD.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="HUB MOVIES",HBO HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="HBO.Hits.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Hits HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="HBO.Signature.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png" group-title="HUB MOVIES",HBO Signature HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="HITS.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png" group-title="HUB MOVIES",HITS MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="HUB KIDS",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4648ad8290a410a85781044307672ae:78bcd2f197a761ea3a885d13971d6aa9
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CBeebies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png" group-title="HUB KIDS",Cbeebies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="DreamWorks.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/307_1920x1080_HTV.png" group-title="HUB KIDS",DreamWorks Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Nick.Jr.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png" group-title="HUB KIDS",Nick Jr.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b329a17ccab74793895b2302b1e8d9dc:d5bab2e51f8597031fe497f6c00addf5
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Nickelodeon.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png" group-title="HUB KIDS",Nickelodeon HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Arirang.TV.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Arirang TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CCTV-4.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CCTV-4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="CTI.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",CTI TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6c6ac1bf1d496aada3738e307a97cc:ea46dc47f8c0c977e47e85bfd255a433
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Ch.5.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b152e2ae339c477aa4821eafb9c83c8c:e862ceb5df4fb9efcb013999e200b5bb
-Failed (HTTP 403)
-#EXTINF:-1 tvg-id="Ch.8.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="HUB CHINESE ASIA",Channel 8 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab098604d411c9685dfd4c8ba5d96:5a6710bd5212d46a48083ffcb871cd20
 Failed (HTTP 403)
